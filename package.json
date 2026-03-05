@@ -1,9 +1,9 @@
 {
-  "name": "unity-toolbox",
-  "displayName": "Unity Toolbox",
+  "name": "unity-toolbox-fork",
+  "displayName": "Unity Toolbox Fork",
   "description": "Awesome tools for VSCode & Unity",
-  "version": "100.0.4",
-  "publisher": "pixl",
+  "version": "100.0.40",
+  "publisher": "txsdx",
   "icon": "./assets/unity-toolbox.png",
   "repository": {
     "type": "git",
